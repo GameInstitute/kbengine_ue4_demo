@@ -31,8 +31,8 @@ public:
 		return true;
 	}
 
-	virtual void setModelID(int modelID) override {
-		this->modelID = modelID;
+	virtual void setModelID(int newModelID) override {
+		this->modelID = newModelID;
 	}
 
 	/** Base turn rate, in deg/sec. Other scaling may affect final turn rate. */

@@ -2,7 +2,7 @@
 
 #include "PlayerCharacter.h"
 #include "kbengine_ue4_demo.h"
-#include "Kismet/HeadMountedDisplayFunctionLibrary.h"
+#include "HeadMountedDisplayFunctionLibrary.h"
 
 //////////////////////////////////////////////////////////////////////////
 // APlayerCharacter
